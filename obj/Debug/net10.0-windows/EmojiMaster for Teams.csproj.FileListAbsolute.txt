@@ -19,3 +19,4 @@ F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Team
 F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.pdb
 F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.genruntimeconfig.cache
 F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\ref\EmojiMaster for Teams.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.sourcelink.json

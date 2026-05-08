@@ -1,0 +1,10 @@
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\EmojiMaster for Teams.exe
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\EmojiMaster for Teams.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\EmojiMaster for Teams.deps.json
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\EmojiMaster for Teams.runtimeconfig.json
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\EmojiMaster for Teams.pdb
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\FlaUI.Core.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\FlaUI.UIA3.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\Interop.UIAutomationClient.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\System.Management.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Release\net10.0-windows\publish\runtimes\win\lib\net8.0\System.Management.dll
