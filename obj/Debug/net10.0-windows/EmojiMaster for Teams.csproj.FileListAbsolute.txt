@@ -1,0 +1,21 @@
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\EmojiMaster for Teams.exe
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\EmojiMaster for Teams.deps.json
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\EmojiMaster for Teams.runtimeconfig.json
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\EmojiMaster for Teams.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\EmojiMaster for Teams.pdb
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\FlaUI.Core.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\FlaUI.UIA3.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\Interop.UIAutomationClient.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\System.Management.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.csproj.AssemblyReference.cache
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.GeneratedMSBuildEditorConfig.editorconfig
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.AssemblyInfoInputs.cache
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.AssemblyInfo.cs
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.csproj.CoreCompileInputs.cache
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMas.2B318A62.Up2Date
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\refint\EmojiMaster for Teams.dll
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.pdb
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\EmojiMaster for Teams.genruntimeconfig.cache
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0-windows\ref\EmojiMaster for Teams.dll

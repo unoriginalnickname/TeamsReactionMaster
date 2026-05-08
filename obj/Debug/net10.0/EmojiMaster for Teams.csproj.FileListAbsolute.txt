@@ -1,0 +1,5 @@
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0\EmojiMaster for Teams.csproj.AssemblyReference.cache
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0\EmojiMaster for Teams.GeneratedMSBuildEditorConfig.editorconfig
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0\EmojiMaster for Teams.AssemblyInfoInputs.cache
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0\EmojiMaster for Teams.AssemblyInfo.cs
+F:\work folder\visual studio projects\EmojiMaster for Teams\EmojiMaster for Teams\obj\Debug\net10.0\EmojiMaster for Teams.csproj.CoreCompileInputs.cache
