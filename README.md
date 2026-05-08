@@ -2,7 +2,7 @@
 
 A lightweight desktop utility for instantly sending 👍 reactions in Microsoft Teams using a global hotkey.
 
-Press **F8** while hovering over a Teams message and the app automatically opens the reaction picker and clicks **Thumbs Up / Like**, even across different Teams language localizations.
+Press **F8** while hovering over a Teams message, and the app automatically opens the reaction picker and clicks **Thumbs Up / Like**, even across different Teams language localizations.
 
 Built in C# using Windows UI Automation via FlaUI.
 
@@ -11,7 +11,6 @@ Built in C# using Windows UI Automation via FlaUI.
 ## Features
 
 - Global **F8 hotkey**
-- Works while Teams is focused
 - Automatically detects Teams UI language
 - Supports multiple localizations:
 
@@ -170,7 +169,7 @@ Uses:
 ## Limitations
 
 - Depends on Teams UI structure staying reasonably stable
-- Requires Teams desktop app
+- Requires the Teams desktop app
 - May break after major Teams UI updates
 
 ---
