@@ -54,8 +54,8 @@ class TeamsThumbsUp
     static UIA3Automation? _automation;
     static AutomationElement? _teamsWindow;
     static AutomationElement? _reactButton;
-    static string _reactName = "React";
-    static string _thumbsUpName = "Like";
+    static string _reactName = "Reagera";
+    static string _thumbsUpName = "Gilla";
 
     static void Main()
     {

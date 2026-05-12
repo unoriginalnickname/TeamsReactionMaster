@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmojiMaster for Teams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aa72b72fa845fc77706bc6cb8915408fcb6a79e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e8e77e9f9d30828f23f6b76766295b095a4621c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmojiMaster for Teams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmojiMaster for Teams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
